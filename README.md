@@ -1,5 +1,5 @@
 # Ramon Lips
-Backend developer from the Netherlands, currently wrapping up my software development degree — only the internship is left.
+Backend developer from the Netherlands. Just wrapped up my software development degree — internship done, now looking for my next role.
 I mainly work with PHP, Laravel and Node.js, and I'm most at home on the backend side of things.  
 Outside of coding, I'm into self-hosting, privacy-friendly tools, and keeping my setup practical without turning it into a science project.
 
@@ -14,14 +14,11 @@ Outside of coding, I'm into self-hosting, privacy-friendly tools, and keeping my
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
-
-### Currently learning
-![Go](https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=00ADD8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Networking](https://img.shields.io/badge/Homelab%20Networking-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
 
 ## What I work with
 - Backend development with **PHP**, **Laravel**, and **Node.js**
+- E-commerce development with **Magento**
 - Databases like **MariaDB** and **MySQL**
 - Containers, web servers and infrastructure with **Docker**, **Nginx**, **Linux**
 - Private and self-hosted setups with **Tailscale** and privacy-focused services

@@ -32,8 +32,8 @@ A quick look at the gear I actually use:
 | **Mac Mini M4** | Home server for self-hosted services |
 | **Gaming PC** | CachyOS Linux machine with RTX 3060 Ti |
 | **iPhone 14** | Daily driver |
-| **Apple Watch** | Notifications / health stuff |
-| **AirPods Pro** | Music, calls, blocking out chaos |
+| **Apple Watch Series 8** | Notifications / health stuff |
+| **AirPods Pro 2** | Music, calls, blocking out chaos |
 
 ## Self-hosted / homelab
 Current setup is small, useful, and mostly built around privacy and convenience.
@@ -41,7 +41,6 @@ Current setup is small, useful, and mostly built around privacy and convenience.
 - **Home Assistant** on a **Raspberry Pi 5**
 - **Pi-hole**
 - **Tailscale** with subnet routing
-- **Immich** for photo backup
 - **Proton** ecosystem: Mail · Drive · VPN · Pass
 
 ## GitHub stats

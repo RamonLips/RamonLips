@@ -1,42 +1,68 @@
-# Hey, I'm Ramon 👋
+# Ramon Lips
+Backend developer from the Netherlands, currently wrapping up my software development degree — only the internship is left.
+I mainly work with PHP, Laravel and Node.js, and I'm most at home on the backend side of things.  
+Outside of coding, I'm into self-hosting, privacy-friendly tools, and keeping my setup practical without turning it into a science project.
 
-Backend developer from the Netherlands, currently finishing my software development degree.
-Focus on PHP, Laravel and Node.js — building backends, APIs, and self-hosted infrastructure.
+## Tech stack
 
----
+### Main stack
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,docker,nginx,git,linux" />
+</p>
 
-## 🛠️ Tech Stack
+### Databases & tools
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
 
-**Languages & Frameworks**
-- PHP · Laravel · Node.js
+### Currently learning
+![Go](https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=00ADD8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Networking](https://img.shields.io/badge/Homelab%20Networking-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
-**Databases**
-- MariaDB · MySQL
+## What I work with
+- Backend development with **PHP**, **Laravel**, and **Node.js**
+- Databases like **MariaDB** and **MySQL**
+- Containers, web servers and infrastructure with **Docker**, **Nginx**, **Linux**
+- Private and self-hosted setups with **Tailscale** and privacy-focused services
 
-**Tools & Platforms**
-- Docker · Nginx · Git · Linux · Tailscale
+## Setup
+A quick look at the gear I actually use:
 
----
+| Device | Purpose |
+|---|---|
+| **MacBook Air M5** | Main work machine |
+| **Mac Mini M4** | Home server for self-hosted services |
+| **Gaming PC** | CachyOS Linux machine with RTX 3060 Ti |
+| **iPhone 14** | Daily driver |
+| **Apple Watch** | Notifications / health stuff |
+| **AirPods Pro** | Music, calls, blocking out chaos |
 
-## 🖥️ Setup
+## Self-hosted / homelab
+Current setup is small, useful, and mostly built around privacy and convenience.
 
-- **Work:** MacBook Air M5 + Mac Mini M4 (home server)
-- **Gaming:** CachyOS Linux · RTX 3060 Ti
-- **Self-hosted:** Home Assistant · Pi-hole · Tailscale
+- **Home Assistant** on a **Raspberry Pi 5**
+- **Pi-hole**
+- **Tailscale** with subnet routing
+- **Immich** for photo backup
+- **Proton** ecosystem: Mail · Drive · VPN · Pass
 
----
+## GitHub stats
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RamonLips&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLips&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+<p>
+  <img height="170" src="https://streak-stats.demolab.com?user=RamonLips&theme=github-dark-blue&hide_border=true" />
+</p>
 
-## 🔗 Links
+## A bit more about me
+- Early 20s
+- Based in the Netherlands
+- Backend-focused
+- Night owl
+- Into self-hosting, privacy, and tooling that does its job without getting in the way
 
-- 🌐 [rmlp.dev](https://rmlp.dev)
-- 📧 ramon.lips@rmlp.dev
-
----
-
-## 📊 Stats
-
-![Ramon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamonLips&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLips&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RamonLips&theme=dark&hide_border=true)
+## Links
+- Website: [rmlp.dev](https://rmlp.dev)
+- Email: [ramon.lips@rmlp.dev](mailto:ramon.lips@rmlp.dev)

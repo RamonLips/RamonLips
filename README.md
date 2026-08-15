@@ -62,3 +62,4 @@ Current setup is small, useful, and mostly built around privacy and convenience.
 ## Links
 - Website: [rmlp.dev](https://rmlp.dev)
 - Email: [ramon.lips@rmlp.dev](mailto:ramon.lips@rmlp.dev)
+- LinkedIn: [RamonLips](https://www.linkedin.com/in/ramonlips)
